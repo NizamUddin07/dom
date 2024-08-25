@@ -1,0 +1,8 @@
+li{
+    color: green;
+    
+}
+
+li>a {
+    font-size: 40;
+}
